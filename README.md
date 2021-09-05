@@ -12,3 +12,6 @@ product is very high). With this technique, the output will drastically increase
 Our project aims to build clusters of customers based on their Spending Score and Annual
 Income. The algorithm used in this project is K-means.
 
+![image](https://user-images.githubusercontent.com/85283934/132123614-b6262214-b0f2-4a19-a238-ff0142fc1bf4.png)
+
+
